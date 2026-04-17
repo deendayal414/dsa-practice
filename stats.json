@@ -2,9 +2,18 @@
   "username": "deendayal414",
   "currentStreak": 1,
   "longestStreak": 1,
-  "totalSolved": 2,
+  "totalSolved": 3,
   "lastPushDate": "2026-04-17",
   "signupDate": "2026-04-17T10:19:51.615Z",
-  "battles": [],
+  "battles": [
+    {
+      "id": "b-yc32wzr",
+      "type": "7-day-sprint",
+      "duration": 7,
+      "opponent": "deendayal414",
+      "status": "active",
+      "endDate": "2026-04-24T10:55:54.927Z"
+    }
+  ],
   "badges": []
 }
